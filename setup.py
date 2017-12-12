@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3.5
 
 from os.path import abspath, dirname, join
 from platform import system
